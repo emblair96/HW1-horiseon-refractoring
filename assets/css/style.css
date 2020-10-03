@@ -1,4 +1,4 @@
-/* Website at large */
+/* Site at large */
 
 * {
     box-sizing: border-box;
@@ -50,7 +50,7 @@ a {
     text-decoration: none;
 }
 
-/* Section, main-content  */
+/* Section, #main-content  */
 
 section {
     width: 75%;
