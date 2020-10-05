@@ -2,7 +2,7 @@
 
 ## Description of work completed
 
-This project focused on refractoring the .html and .css files for Horiseon's website.  By refractoring this code, future developers will be able to better understand the website structure and more effectively find ways to make improvements.  You can view the website [DEMO](demo/01-html-css-git-homework-demo.png) as well as the live site on [GITHUB](https://emblair96.github.io/week1-horiseon-refractoring/).  
+This project focused on refractoring the .html and .css files for Horiseon's website.  By refractoring this code, future developers will be able to better understand the website structure and more effectively find ways to make improvements.  You can view the website [DEMO](demo/01-html-css-git-homework-demo.png) as well as the live site on [GITHUB](https://emblair96.github.io/HW1-horiseon-refractoring/).  
 
 ### Improvements to html
 
